@@ -24,5 +24,5 @@
 
 # Status
 <p align = "center">
-  <img src = "https://discord.c99.nl/widget/theme-4/297840334774468608.png" />
+  <img src = "https://cdn.discordapp.com/attachments/822989328736845834/830485860750852146/banner.png" />
 </p>
