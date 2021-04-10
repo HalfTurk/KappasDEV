@@ -22,10 +22,7 @@
 <br>
 <br>
 
-# Credits
-
-Dropout, also a skid! https://kappas.leaked-your-pussy-pics.online/j8YzLvbb
-
-Proof that he can't do password logger lmao. N00B
-
-(ok maybe not a skid. he can code but not good lololololololololololol. sorry skiddies.)
+# Status
+<p align = "center">
+  <img src = "https://discord.c99.nl/widget/theme-4/297840334774468608.png" />
+</p>
