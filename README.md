@@ -1,4 +1,4 @@
-### Kappas! (follow me!)
+### I'm Kappas!
 
 **Languages and Tools:**
 
