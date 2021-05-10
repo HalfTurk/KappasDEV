@@ -22,7 +22,4 @@
 <br>
 <br>
 
-# Status
-<p align = "center">
-  <img src = "https://cdn.discordapp.com/attachments/822989328736845834/830485860750852146/banner.png" />
-</p>
+# EEEEEEEEEEEEEEEEEEEEEEEEE?
